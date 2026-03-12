@@ -1,38 +1,38 @@
-# 📊 Portfólio de Dashboards Empresariais
+# 📊 Business Dashboards Portfolio
 
-Coleção de dashboards desenvolvidos com **Python, Pandas e Streamlit** para análise de dados em diferentes áreas de negócio.
-
----
-
-## 💰 Dashboard Financeiro
-Análise de faturamento, custos e lucro da operação.
-
-🔗 Projeto:  
-https://github.com/seuusuario/dashboard-financeiro
-
-🚀 Aplicação online:  
-https://seu-dashboard.streamlit.app
+Coleção de dashboards empresariais desenvolvidos com Python, Pandas, Plotly e Dash para análise de dados em diferentes áreas de negócio.
 
 ---
 
-## 🛠 Dashboard de Suporte / Incidentes
-Monitoramento de chamados, SLA e tempo médio de resolução.
+## 🛠 Service Desk Dashboard
+Monitoramento de chamados ITSM e métricas de SLA.
 
-🔗 Projeto:  
-https://github.com/seuusuario/dashboard-suporte
-
----
-
-## 📈 Dashboard de Gestão de Projetos
-Indicadores de progresso, orçamento e status dos projetos.
-
-🔗 Projeto:  
-https://github.com/seuusuario/dashboard-projetos
+Tecnologias:
+- Python
+- Dash
+- Plotly
 
 ---
 
-## 🛒 Dashboard de Vendas
-Análise de vendas por canal, ticket médio e crescimento.
+## 👥 RH – Benefícios
+Análise de benefícios corporativos e indicadores de RH.
 
-🔗 Projeto:  
-https://github.com/seuusuario/dashboard-vendas
+---
+
+## 💰 Financeiro
+Dashboard de indicadores financeiros e fluxo de caixa.
+
+---
+
+## 🏥 Operacional – Contas Médicas
+Indicadores de faturamento hospitalar e controle operacional.
+
+---
+
+## 📈 Projetos / GMO
+Dashboard de acompanhamento de projetos e indicadores de gestão.
+
+---
+
+## ⚙️ Processos & Melhoria Contínua
+Indicadores de eficiência de processos e melhoria contínua.
