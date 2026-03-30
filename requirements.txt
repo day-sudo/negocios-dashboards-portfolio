@@ -4,4 +4,4 @@ plotly
 pandas
 numpy
 streamlit
-.
+altair
