@@ -57,7 +57,10 @@ with col_graf2:
     st.plotly_chart(fig_fontes, use_container_width=True)
 
 # --- INSIGHTS ---
-st.subheader("💡 Insights Estratégicos")
-st.info("**O uso de WhatsApp e Instagram gerou maior volume e agilidade no processo seletivo, mostrando aderência ao perfil operacional da vaga e ao público local.
-Já o LinkedIn apresentou baixa efetividade, indicando desalinhamento com o perfil buscado.
-Estratégia recomendada: priorizar canais orgânicos e locais para otimizar tempo e custo de contratação.")
+st.markdown("""
+💡 **Insights Estratégicos**
+
+- WhatsApp e Instagram: maior volume e agilidade  
+- LinkedIn: baixa efetividade para perfil operacional  
+- **Ação:** priorizar canais orgânicos e locais
+""")
