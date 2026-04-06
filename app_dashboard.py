@@ -13,7 +13,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("📊 Tapí RH Case: Processos e Soluções")
+st.title("📊 Gestão de Recrutamento com Dados e Eficiência Operacional")
 st.markdown("Monitoramento de Atração & Seleção - Nova Loja")
 
 # 3. DADOS INTEGRADOS (Substituindo a API para funcionar no link externo)
