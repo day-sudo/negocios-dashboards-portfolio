@@ -58,4 +58,6 @@ with col_graf2:
 
 # --- INSIGHTS ---
 st.subheader("💡 Insights Estratégicos")
-st.info("**Análise de Conversão:** O recrutamento via WhatsApp e Instagram trouxe volume e agilidade, validando a tese de que o público da nova loja já consome a marca localmente. O LinkedIn trouxe candidatos com perfil mais administrativo, fora do escopo 'mão na massa' exigido para o salão.")
+st.info("**O uso de WhatsApp e Instagram gerou maior volume e agilidade no processo seletivo, mostrando aderência ao perfil operacional da vaga e ao público local.
+Já o LinkedIn apresentou baixa efetividade, indicando desalinhamento com o perfil buscado.
+Estratégia recomendada: priorizar canais orgânicos e locais para otimizar tempo e custo de contratação.")
